@@ -54,6 +54,10 @@ The analysis used three core datasets:
 - Major metros like **Bangalore, Kolkata, and New Delhi** contributed significantly to retailer-like revenue.  
 - There was a strong **skew in frequency and revenue** — only a handful of customers placed **100+ orders** or spent over **₹1 Lakh**.
 
+- ### 📊 Retailer vs Non-Retailer Revenue Dashboard
+
+![Retailer vs Non-Retailer Dashboard](Dashboards/Retailer%20VS%20NonRetailer%20Dashboard.png)
+
 ---
 
 ## 4. Deep Dive
